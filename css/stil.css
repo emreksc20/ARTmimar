@@ -1,0 +1,138 @@
+body{
+	font-family: 'Barlow', sans-serif;
+	}
+.sliderresim{
+	width:100%;
+	height:600px;
+	}	
+.hakkimizda i{
+	color:#000;
+	opacity:0.6;
+}
+#hakkımızdaresim{
+	transition:1s;
+	}
+#hakkımızdaresim:hover{
+	transform:translateY(20px);
+	transform:translate(-20px,20px)
+	}
+.hakkimizda{
+	margin-left:40%;
+    background-color:#FFF;
+	width:350px;
+    height:70px;
+	margin-top:8%;
+	}	
+.cizgi{
+	margin-left:-45%;
+	margin-top:40px;
+	
+	}
+
+.baslik{
+	background-color:#FFF;
+	width:250px;
+	height:40px;
+	position:absolute;
+	z-index:1px;
+	margin-top:-3%;
+	}
+.baslik4{
+	background-color:#FFF;
+	width:300px;
+	height:40px;
+	position:absolute;
+	z-index:1px;
+	margin-top:-3%;
+	}	
+.mimarproje{
+	transition:1s;
+	}	
+.mimarproje:hover{
+	transform:translateY(20px);
+	}	
+.içmimarresim{
+	width:100%;
+	height:200px;
+	}	
+
+.peyzajresim{
+	width:100%;
+	height:200px;
+	}	
+		
+.peyzajproje{
+	transition:1s;
+	}	
+.peyzajproje:hover{
+	transform:translateY(20px);
+	}	
+	
+.yeniproje{
+	transition:1s;
+	}	
+.yeniproje:hover{
+	transform:translateY(20px);
+	}
+.ekipresim{
+	width:100%;
+	height:100%;
+	}
+.ekip{
+	transition:1s;
+	}	
+.ekip:hover{
+	transform:translateY(20px);
+	}	
+.baslik5{
+	background-color:#FFF;
+	width:190px;
+	height:40px;
+	position:absolute;
+	z-index:1px;
+	margin-top:-3%;
+	}				
+h6{
+	opacity:0.6;
+	}	
+.ekipikon i{
+	color:#06C;
+	font-size:18px;
+	}	
+.ekipikon i:hover{
+	color:#F00;
+	}	
+.arkaresim{
+     width:100%;
+	 height:auto;
+	 background-attachment:scroll;
+	background-image:url(../img/h1.jpeg);
+	margin-top:5%;
+
+	}	
+.baslik1{
+	background-color:#FFF;
+	width:190px;
+	height:40px;
+	position:absolute;
+	z-index:1px;
+	margin-top:-3%;
+	}	
+.btn{
+	margin-left:40%;
+	}	
+#bilgi{
+	transition:1s;
+	}	
+#bilgi:hover{
+	transform:translateY(25px);
+	}	
+.footer{
+	background-color:#333;
+	width:100%;
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	color:#FFF;
+	margin-top:4%;
+	}	
